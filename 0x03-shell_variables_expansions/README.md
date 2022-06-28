@@ -1,1 +1,1 @@
-0-alias > Create a script that creates an alias Name:ls Value: rm *
+this is my first task for Shell Initialization Files.
